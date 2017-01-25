@@ -1,3 +1,0 @@
-
-Demo git project branch Master.
-Second line.
