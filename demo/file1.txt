@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 fdfhsdjkhfk
+=======
+Demo git project branch Master.
+>>>>>>> d634cf3b9180de7e8550bdaff08b957e0e7baf22
